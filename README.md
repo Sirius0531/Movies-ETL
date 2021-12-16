@@ -10,5 +10,5 @@ We clean and transform data using Pandas and regular expressions (RegEx) to get 
 
 ###### Result
 Data output view:
-![movie](https://myoctocat.com/assets/images/base-octocat.svg)
-![rating](https://myoctocat.com/assets/images/base-octocat.svg)
+![movie](https://github.com/Sirius0531/Movies-ETL/blob/main/resource/movies_query.png)
+![rating](https://github.com/Sirius0531/Movies-ETL/blob/main/resource/ratings_query.png)
